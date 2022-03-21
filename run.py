@@ -66,8 +66,4 @@ async def on_message(message):
 
 
 # 봇을 실행시키기 위해서 봇의 토큰을 작성하는 곳
-<<<<<<< HEAD
-client.run("ODAyNTI3NzAwNTY4MjQ0MjI0.YAwiKg.rnPA-9JhLLTDx9API8oSqbhEQ4U")
-=======
 client.run("자신이 생성한 봇의 토큰")
->>>>>>> ab0994ff0c0bd551c12b1b00e84c79efb04fe1fe
