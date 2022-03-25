@@ -19,4 +19,8 @@ async def on_ready():
     await client.change_presence(status=discord.Status.online, activity=discord.Game("고먐미 봇은 " + str(len(client.guilds)) + "개의 서버에 접속하고 있어요!")) # 봇의 상태메세지를 설정한다.
 
 # 봇을 실행시키기 위해서 봇의 토큰을 작성하는 곳
+<<<<<<< HEAD
 client.run("ODAyNTI3NzAwNTY4MjQ0MjI0.YAwiKg.Aup_sI3vO2T8DOyTIk_xBtj49kI")
+=======
+client.run("자신이 생성한 봇의 토큰")
+>>>>>>> c1b7e3969a1fcdba4cb3a1b94ee62884e41aa1f4
